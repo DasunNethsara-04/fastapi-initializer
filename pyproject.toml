@@ -6,7 +6,7 @@ readme = "README.md"
 license = { text = "MIT" }
 requires-python = ">=3.10"
 authors = [
-    { name = "Dasun Nethsara", email = "dasunnethsara04@gmail.com" },
+    { name = "Dasun Nethsara", email = "techsaralk.pro@gmail.com" },
 ]
 keywords = [
     "fastapi",
