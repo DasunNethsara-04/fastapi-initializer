@@ -1,8 +1,8 @@
 # FastAPI Initializer
 
-[![PyPI version](https://img.shields.io/pypi/v/fastapi-initializer.svg)](https://pypi.org/project/fastapi-initializer/)
-[![Python](https://img.shields.io/pypi/pyversions/fastapi-initializer.svg)](https://pypi.org/project/fastapi-initializer/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PyPI version](https://img.shields.io/pypi/v/fastapi-initializer)](https://pypi.org/project/fastapi-initializer/)
+[![Python](https://img.shields.io/pypi/pyversions/fastapi-initializer)](https://pypi.org/project/fastapi-initializer/)
+[![License](https://img.shields.io/pypi/l/fastapi-initializer)](https://pypi.org/project/fastapi-initializer/)
 
 An interactive CLI tool that scaffolds **production-ready FastAPI projects** with sensible defaults — so you can skip the boilerplate and start building right away.
 
