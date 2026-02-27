@@ -16,6 +16,8 @@ keywords = [
     "boilerplate",
     "initializer",
     "template",
+    "pipx",
+    "uv
 ]
 classifiers = [
     "Development Status :: 4 - Beta",

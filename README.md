@@ -25,16 +25,28 @@ Run a single command, answer a few prompts, and get a fully structured FastAPI p
 
 ## 📦 Installation
 
-### Install from PyPI
+### Recommended: Install Globally
+
+Install `fastapi-initializer` as a global CLI tool — no virtual environment needed. Just install once and use the `fastapi-init` command from anywhere, just like `uv`, `pip`, or `ruff`.
+
+Using [pipx](https://pipx.pypa.io/):
+
+```bash
+pipx install fastapi-initializer
+```
+
+Or using [uv](https://docs.astral.sh/uv/):
+
+```bash
+uv tool install fastapi-initializer
+```
+
+### Alternative: Install with pip
+
+If you prefer a traditional install inside a virtual environment:
 
 ```bash
 pip install fastapi-initializer
-```
-
-Or with [uv](https://docs.astral.sh/uv/):
-
-```bash
-uv pip install fastapi-initializer
 ```
 
 ### Install from Source (for development)
