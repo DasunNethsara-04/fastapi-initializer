@@ -1,6 +1,6 @@
 [project]
 name = "fastapi-initializer"
-version = "1.0.1"
+version = "1.0.2"
 description = "An interactive CLI tool that scaffolds production-ready FastAPI projects with sensible defaults."
 readme = "README.md"
 license = { text = "MIT" }
@@ -17,7 +17,7 @@ keywords = [
     "initializer",
     "template",
     "pipx",
-    "uv
+    "uv",
 ]
 classifiers = [
     "Development Status :: 4 - Beta",
