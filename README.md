@@ -6,7 +6,14 @@
 
 An interactive CLI tool that scaffolds **production-ready FastAPI projects** with sensible defaults — so you can skip the boilerplate and start building right away.
 
-![fastapi-init demo](https://raw.githubusercontent.com/DasunNethsara-04/fastapi-initializer/main/assets/demo.gif)
+<img width="1115" height="626" alt="Screenshot 2026-02-27 163615" src="https://github.com/user-attachments/assets/2fea7d48-470f-4056-9ebf-d84b9bc3b259" />
+<img width="1119" height="628" alt="Screenshot 2026-02-27 163832" src="https://github.com/user-attachments/assets/ec137440-6a73-49aa-8d24-651652724742" />
+<img width="1107" height="618" alt="Screenshot 2026-02-27 163848" src="https://github.com/user-attachments/assets/b8500d30-f745-4a6d-8a15-04d33aef3bcd" />
+<img width="1110" height="623" alt="Screenshot 2026-02-27 163910" src="https://github.com/user-attachments/assets/3bd33d4b-8ce1-4daa-accf-f5b2b0b5c66d" />
+<img width="1916" height="1028" alt="Screenshot 2026-02-27 164031" src="https://github.com/user-attachments/assets/7414babe-42b5-42e7-ace2-c00d4b55e21b" />
+<img width="302" height="988" alt="Screenshot 2026-02-27 164114" src="https://github.com/user-attachments/assets/3cbfbeba-fbb7-4445-ac2d-ea5a86c248fc" />
+
+
 
 ---
 
